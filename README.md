@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech in Civil Engineering (CGPA 9.32/10)  
+- 🎓 B.Tech 
 - 💻 Transitioning into Cloud & DevOps roles  
 - 📈 Skilled in AWS, GCP, Azure, Docker, Kubernetes, Terraform, GitLab CI/CD  
 - 📹 Sharing knowledge through YouTube tutorials and open-source projects  
